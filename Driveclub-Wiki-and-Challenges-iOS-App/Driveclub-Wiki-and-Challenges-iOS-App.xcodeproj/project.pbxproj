@@ -1,0 +1,565 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		70FD698D2C9C6F7F00839D4E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 70FD69742C9C6F7D00839D4E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 70FD697B2C9C6F7D00839D4E;
+			remoteInfo = "Driveclub-Wiki-and-Challenges-iOS-App";
+		};
+		70FD69972C9C6F7F00839D4E /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 70FD69742C9C6F7D00839D4E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 70FD697B2C9C6F7D00839D4E;
+			remoteInfo = "Driveclub-Wiki-and-Challenges-iOS-App";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		70FD697C2C9C6F7D00839D4E /* Driveclub-Wiki-and-Challenges-iOS-App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Driveclub-Wiki-and-Challenges-iOS-App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		70FD698C2C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Driveclub-Wiki-and-Challenges-iOS-AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		70FD69962C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Driveclub-Wiki-and-Challenges-iOS-AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		70FD697E2C9C6F7D00839D4E /* Driveclub-Wiki-and-Challenges-iOS-App */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Driveclub-Wiki-and-Challenges-iOS-App";
+			sourceTree = "<group>";
+		};
+		70FD698F2C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Driveclub-Wiki-and-Challenges-iOS-AppTests";
+			sourceTree = "<group>";
+		};
+		70FD69992C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Driveclub-Wiki-and-Challenges-iOS-AppUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		70FD69792C9C6F7D00839D4E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		70FD69892C9C6F7F00839D4E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		70FD69932C9C6F7F00839D4E /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		70FD69732C9C6F7D00839D4E = {
+			isa = PBXGroup;
+			children = (
+				70FD697E2C9C6F7D00839D4E /* Driveclub-Wiki-and-Challenges-iOS-App */,
+				70FD698F2C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppTests */,
+				70FD69992C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppUITests */,
+				70FD697D2C9C6F7D00839D4E /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		70FD697D2C9C6F7D00839D4E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				70FD697C2C9C6F7D00839D4E /* Driveclub-Wiki-and-Challenges-iOS-App.app */,
+				70FD698C2C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppTests.xctest */,
+				70FD69962C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		70FD697B2C9C6F7D00839D4E /* Driveclub-Wiki-and-Challenges-iOS-App */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 70FD69A02C9C6F7F00839D4E /* Build configuration list for PBXNativeTarget "Driveclub-Wiki-and-Challenges-iOS-App" */;
+			buildPhases = (
+				70FD69782C9C6F7D00839D4E /* Sources */,
+				70FD69792C9C6F7D00839D4E /* Frameworks */,
+				70FD697A2C9C6F7D00839D4E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				70FD697E2C9C6F7D00839D4E /* Driveclub-Wiki-and-Challenges-iOS-App */,
+			);
+			name = "Driveclub-Wiki-and-Challenges-iOS-App";
+			packageProductDependencies = (
+			);
+			productName = "Driveclub-Wiki-and-Challenges-iOS-App";
+			productReference = 70FD697C2C9C6F7D00839D4E /* Driveclub-Wiki-and-Challenges-iOS-App.app */;
+			productType = "com.apple.product-type.application";
+		};
+		70FD698B2C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 70FD69A32C9C6F7F00839D4E /* Build configuration list for PBXNativeTarget "Driveclub-Wiki-and-Challenges-iOS-AppTests" */;
+			buildPhases = (
+				70FD69882C9C6F7F00839D4E /* Sources */,
+				70FD69892C9C6F7F00839D4E /* Frameworks */,
+				70FD698A2C9C6F7F00839D4E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				70FD698E2C9C6F7F00839D4E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				70FD698F2C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppTests */,
+			);
+			name = "Driveclub-Wiki-and-Challenges-iOS-AppTests";
+			packageProductDependencies = (
+			);
+			productName = "Driveclub-Wiki-and-Challenges-iOS-AppTests";
+			productReference = 70FD698C2C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		70FD69952C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 70FD69A62C9C6F7F00839D4E /* Build configuration list for PBXNativeTarget "Driveclub-Wiki-and-Challenges-iOS-AppUITests" */;
+			buildPhases = (
+				70FD69922C9C6F7F00839D4E /* Sources */,
+				70FD69932C9C6F7F00839D4E /* Frameworks */,
+				70FD69942C9C6F7F00839D4E /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				70FD69982C9C6F7F00839D4E /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				70FD69992C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppUITests */,
+			);
+			name = "Driveclub-Wiki-and-Challenges-iOS-AppUITests";
+			packageProductDependencies = (
+			);
+			productName = "Driveclub-Wiki-and-Challenges-iOS-AppUITests";
+			productReference = 70FD69962C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		70FD69742C9C6F7D00839D4E /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1600;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					70FD697B2C9C6F7D00839D4E = {
+						CreatedOnToolsVersion = 16.0;
+					};
+					70FD698B2C9C6F7F00839D4E = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 70FD697B2C9C6F7D00839D4E;
+					};
+					70FD69952C9C6F7F00839D4E = {
+						CreatedOnToolsVersion = 16.0;
+						TestTargetID = 70FD697B2C9C6F7D00839D4E;
+					};
+				};
+			};
+			buildConfigurationList = 70FD69772C9C6F7D00839D4E /* Build configuration list for PBXProject "Driveclub-Wiki-and-Challenges-iOS-App" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 70FD69732C9C6F7D00839D4E;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 70FD697D2C9C6F7D00839D4E /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				70FD697B2C9C6F7D00839D4E /* Driveclub-Wiki-and-Challenges-iOS-App */,
+				70FD698B2C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppTests */,
+				70FD69952C9C6F7F00839D4E /* Driveclub-Wiki-and-Challenges-iOS-AppUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		70FD697A2C9C6F7D00839D4E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		70FD698A2C9C6F7F00839D4E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		70FD69942C9C6F7F00839D4E /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		70FD69782C9C6F7D00839D4E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		70FD69882C9C6F7F00839D4E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		70FD69922C9C6F7F00839D4E /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		70FD698E2C9C6F7F00839D4E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 70FD697B2C9C6F7D00839D4E /* Driveclub-Wiki-and-Challenges-iOS-App */;
+			targetProxy = 70FD698D2C9C6F7F00839D4E /* PBXContainerItemProxy */;
+		};
+		70FD69982C9C6F7F00839D4E /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 70FD697B2C9C6F7D00839D4E /* Driveclub-Wiki-and-Challenges-iOS-App */;
+			targetProxy = 70FD69972C9C6F7F00839D4E /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		70FD699E2C9C6F7F00839D4E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		70FD699F2C9C6F7F00839D4E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		70FD69A12C9C6F7F00839D4E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Driveclub-Wiki-and-Challenges-iOS-App/Preview Content\"";
+				DEVELOPMENT_TEAM = F83ZMYY4GB;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Nizaam.Driveclub-Wiki-and-Challenges-iOS-App";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		70FD69A22C9C6F7F00839D4E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Driveclub-Wiki-and-Challenges-iOS-App/Preview Content\"";
+				DEVELOPMENT_TEAM = F83ZMYY4GB;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIStatusBarHidden = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Nizaam.Driveclub-Wiki-and-Challenges-iOS-App";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		70FD69A42C9C6F7F00839D4E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = F83ZMYY4GB;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Nizaam.Driveclub-Wiki-and-Challenges-iOS-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Driveclub-Wiki-and-Challenges-iOS-App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Driveclub-Wiki-and-Challenges-iOS-App";
+			};
+			name = Debug;
+		};
+		70FD69A52C9C6F7F00839D4E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = F83ZMYY4GB;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.0;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Nizaam.Driveclub-Wiki-and-Challenges-iOS-AppTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Driveclub-Wiki-and-Challenges-iOS-App.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Driveclub-Wiki-and-Challenges-iOS-App";
+			};
+			name = Release;
+		};
+		70FD69A72C9C6F7F00839D4E /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = F83ZMYY4GB;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Nizaam.Driveclub-Wiki-and-Challenges-iOS-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Driveclub-Wiki-and-Challenges-iOS-App";
+			};
+			name = Debug;
+		};
+		70FD69A82C9C6F7F00839D4E /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = F83ZMYY4GB;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Nizaam.Driveclub-Wiki-and-Challenges-iOS-AppUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Driveclub-Wiki-and-Challenges-iOS-App";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		70FD69772C9C6F7D00839D4E /* Build configuration list for PBXProject "Driveclub-Wiki-and-Challenges-iOS-App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				70FD699E2C9C6F7F00839D4E /* Debug */,
+				70FD699F2C9C6F7F00839D4E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		70FD69A02C9C6F7F00839D4E /* Build configuration list for PBXNativeTarget "Driveclub-Wiki-and-Challenges-iOS-App" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				70FD69A12C9C6F7F00839D4E /* Debug */,
+				70FD69A22C9C6F7F00839D4E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		70FD69A32C9C6F7F00839D4E /* Build configuration list for PBXNativeTarget "Driveclub-Wiki-and-Challenges-iOS-AppTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				70FD69A42C9C6F7F00839D4E /* Debug */,
+				70FD69A52C9C6F7F00839D4E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		70FD69A62C9C6F7F00839D4E /* Build configuration list for PBXNativeTarget "Driveclub-Wiki-and-Challenges-iOS-AppUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				70FD69A72C9C6F7F00839D4E /* Debug */,
+				70FD69A82C9C6F7F00839D4E /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 70FD69742C9C6F7D00839D4E /* Project object */;
+}
